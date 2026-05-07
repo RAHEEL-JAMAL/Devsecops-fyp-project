@@ -1,4 +1,4 @@
-# FYP Cloud Deployment Dashboard
+# FYP : Secure Dual deplyment dashbaord with live monitoring of lgs and pipeline 
 
 A production-grade full-stack deployment dashboard.
 
